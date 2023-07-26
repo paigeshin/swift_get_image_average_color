@@ -1,0 +1,1 @@
+# swift_get_image_average_color
